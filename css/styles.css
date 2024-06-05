@@ -1,0 +1,91 @@
+
+body{
+    background-image: url(https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/women-future-business.jpg.optimal.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(0, 217, 255);
+    width: 100%;
+    height: 100%;
+    margin: 0;
+
+}
+
+
+header{
+    width: 100%;
+    height: 40px;
+background-color: orange;
+float: left;
+position: sticky;
+top: 0;
+}
+
+.navbar{
+    width: 100%;
+    height: 50px;
+background-color: rgb(255, 255, 255);
+float: left;
+}
+
+.center{
+    width: 100%;
+    height: 500px;
+    background-color: brown;
+    float: left;
+}
+
+.left{
+    width: 10%;
+    height: 500px;
+    background-color: rgb(34, 67, 214);
+    float: left;
+}
+
+nav{
+    width: 80%;
+    height: 500px;
+    background-color: rgb(31, 119, 28);
+    float: left;
+}
+
+:right{
+    width: 10%;
+    height: 500px;
+    background-color: rgb(72, 216, 53);
+   float: right;
+
+}
+
+
+
+.headleft{
+    min-width: 20%;
+    height: 40px;
+background-color: rgb(65, 29, 196);
+float: left;
+
+}
+
+.headright{
+    min-width: 20%;
+    height: 40px;
+background-color: rgb(40, 145, 71);
+float: right;
+}
+
+.navleft{
+    min-width: 20%;
+    height: 50px;
+background-color: rgb(22, 238, 209);
+float: left;
+
+}
+
+.navright{
+    min-width: 20%;
+    height: 50px;
+background-color: rgb(181, 49, 185);
+float: right;
+}
+
